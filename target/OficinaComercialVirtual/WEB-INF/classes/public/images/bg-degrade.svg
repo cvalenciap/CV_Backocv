@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="934" height="1426" viewBox="0 0 934 1426">
+    <defs>
+        <linearGradient id="b" x1="48.941%" x2="48.941%" y1="95.227%" y2="39.81%">
+            <stop offset="0%" stop-color="#0EA6E4"/>
+            <stop offset="48.311%" stop-color="#0085BC"/>
+            <stop offset="100%" stop-color="#006EAA"/>
+        </linearGradient>
+        <path id="a" d="M50.233 0C50.233 54.85.001 54.85.001 109.697c0 54.849 50.232 54.85 50.232 109.698C50.233 274.24.001 274.24.001 329.088s50.232 54.845 50.232 109.689c0 54.842-50.232 54.842-50.232 109.683 0 54.843 50.232 54.843 50.232 109.689C50.233 712.993 0 712.993 0 767.837c.002.008 0 .015 0 .023 0 54.848 50.233 54.85 50.233 109.697S.001 932.404.001 987.25c0 54.847 50.232 54.846 50.232 109.69 0 54.841-50.232 54.841-50.232 109.682 0 54.844 50.232 54.844 50.232 109.69C50.233 1371.155 0 1371.155 0 1426l934-1.849V0H50.233z"/>
+        <linearGradient id="c" x1="100%" x2="50%" y1="0%" y2="50%">
+            <stop offset="0%" stop-color="#00CDFB"/>
+            <stop offset="56.34%" stop-color="#00B3F8"/>
+            <stop offset="100%" stop-color="#009FF6"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" stroke-dasharray="4,4" opacity=".8" transform="matrix(-1 0 0 1 934 0)">
+        <mask id="d" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="url(#b)" xlink:href="#a"/>
+        <path fill="url(#c)" d="M-129 0H934v1426H-129V0z" mask="url(#d)"/>
+    </g>
+</svg>

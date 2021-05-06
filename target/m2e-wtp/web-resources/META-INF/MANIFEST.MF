@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: OficinaComercialVirtual
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: CANVIA
+Implementation-Vendor-Id: com.ocv
+Build-Jdk: 1.8.0_271
+Implementation-URL: http://projects.spring.io/spring-boot/OficinaComer
+ cialVirtual/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
